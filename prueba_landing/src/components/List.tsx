@@ -1,5 +1,3 @@
-// components/CustomList.tsx
-
 import { List, ListItem, ListItemText } from '@mui/material';
 
 function Requirements() {

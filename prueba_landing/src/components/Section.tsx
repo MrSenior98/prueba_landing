@@ -12,7 +12,7 @@ function Section({ title, content, bgColor }: SectionProps) {
       <Typography variant="h4" gutterBottom>
         {title}
       </Typography>
-      <Typography variant="body1">{content}</Typography>
+      <Box>{content}</Box>
     </Box>
   );
 }
